@@ -1,0 +1,11 @@
+name: Vxlan
+runtime:
+  name: python
+  options:
+    toolchain: pip
+    virtualenv: venv
+description: vxlan & vtep lab
+config:
+  pulumi:tags:
+    value:
+      pulumi:template: aws-python
