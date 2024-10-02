@@ -1,0 +1,2 @@
+Understanding a Multi-Container Host Networking Using VxLAN Overlay Network in AWS
+This lab demonstrates how to set up container communication between multiple EC2 instances using Virtual Extensible LAN (VxLAN) technology. We'll create a VxLAN overlay network to enable containers on different hosts to communicate as if they were on the same local network.
